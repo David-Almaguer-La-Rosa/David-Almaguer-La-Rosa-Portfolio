@@ -1,5 +1,5 @@
-# Portfolio
-Learning how to do my data science portfolio
+# Projects
 
-# Project 1
-Rating-based conjonint analysis
+# Project 1: Do the attributes of a product influence the choice of consumers? A consumer preferences model for tourism sector
+Rating based-conjoint analysis
+
