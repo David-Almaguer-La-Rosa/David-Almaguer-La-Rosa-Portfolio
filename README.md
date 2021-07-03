@@ -1,5 +1,5 @@
 # Projects
 
-# Project 1: Do the attributes of a product influence the choice of consumers? A consumer preferences model for tourism sector
+# Project 1: How product attributes influencing consumer choice? A consumer preferences model for tourism sector.
 Rating based-conjoint analysis
 
