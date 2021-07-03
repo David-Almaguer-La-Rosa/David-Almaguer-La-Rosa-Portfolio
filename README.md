@@ -1,4 +1,5 @@
 # Portfolio
+Learning how to do my data science portfolio
 
 # Project 1
-Learning how to do my data science portfolio
+Rating-based conjonint analysis
